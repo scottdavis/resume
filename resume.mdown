@@ -43,6 +43,9 @@
 * SASS / SCSS
 * Shoulda
 * Factory Girl
+* Compass
+* Beanstalkd
+* Stalker
 
 ### Others
 
