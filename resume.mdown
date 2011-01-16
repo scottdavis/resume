@@ -1,0 +1,150 @@
+# Scott Davis
+
+**OBJECTIVE:** Web Developer / Software Engineer
+
+## SUMMARY
+
+1. Intern Kennedy Krieger Institute.
+2. Intern EDO EVI Technology.
+3. Web Developer SmartLogic Solutions LLC.
+4. Web Developer Space Telescope Science Institute home of the Hubble Space 	Telescope 
+5. Experienced in managing production SQL databases. 
+6. Experienced in Adobe Flex, Air, and Flash using the pure MVC frame work.
+7. Expert in Ruby on Rails and PHP development.
+8. Strong background in Linux / UNIX development and administration.
+9. High level of competence and understanding in the security behind web applications.
+10. Extremely motivated agile developer and fast learner.
+11. Experience in building content management systems.
+12. Experience in building video streaming web applications.
+
+## Proficiencies
+
+### Expert:
+1. Objective C / C++ (iphone)
+1. Ruby	
+2. Ruby on Rails
+  * HAML
+  * SASS / SCSS
+  * Shoulda
+  * Factory Girl
+3. MYSQL	
+4. Remote Application Deployment
+5. Linux
+6. Flex 3
+7. Adobe Air
+8. Pure MVC
+9. Windows
+10. Functional / Unit Testing
+11. JavaScript
+12. Prototype
+  * JQuery
+  * Prototype
+13. Object Oriented Design
+14. Subversion
+15. GIT
+16. PHP 5
+17. Capistrano (application deployment)
+
+### Others
+
+1. Windows Vista
+2. MS SQL Server
+3. PHP (3 – 4)
+4. CSS
+5. SQL
+6. PERL
+7. Java
+8. Linux
+9. UNIX
+10. HTML
+11. AJAX (Asynchronous JavaScript and XML)
+12. Adobe Photoshop
+13. Dreamweaver
+14. Fireworks
+15. Flash	
+16. Mac OS X		
+17. Xen Virtualization
+18. Relational Database Design
+
+###Basic Knowledge in:
+1. JCreator
+2. Jstudio
+3. Java
+4. C++
+5. C
+
+*Code Samples and References available upon request*
+
+## Experience
+
+### Web Developer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-present
+
+* Helped Maintain and create products for the Hubble Space Telescope
+* Used PHP and Ruby on Rails to maintain web based products
+* Developed HubbleSite iPhone application
+* Developed interactive Flex 3 and pureMVC
+* Created and deployed custom web application solutions using both PHP and Ruby on Rails
+
+### Web Developer / Linux Administrator - SmartLogic Solutions LLC Baltimore, Maryland 2007-2008
+* Maintained 14 production environments on Linux, Windows, and Mac.
+* Minor Desktop support for company employees
+* Developed highly polished skills using Ruby on Rails and its built in testing frame works.
+* Responsibilities include managing full application life cycle from planning to deployment.
+* Designed and created large scale and secure web applications using Ruby on Rails and Adobe Flex 3
+* Worked with Adobe Air to build custom Time Tracking software and video applications.
+* Worked with a team of developers to deliver client specific assets on schedule.
+* Worked Developing web based iPhone applications
+* Experience developing with the pure MVC framework for Abode Flex and Air platforms.
+* Experienced in social media (Web 2.0) design 
+* Developed Mystudentgroups.com from idea to finished product now currently being used by many universities to manage their student organizations.
+* Completed a dynamic content management system in PHP 5 for Great American restaurants in Northern Virginia to allow different sites for each restaurant.
+* Completed a content management system for global events partners
+* Completed a medicine database for the Epilepsy Foundation using Coldfusion 8
+* Developed in house web based virtualization software.
+
+### Web Developer / Tech Support - EDO EVI Technology, LLC. Columbia, Maryland January 2005 to 2007 
+* Managed and was responsible for several Linux, Windows, and Netware servers
+* Imaged and supported end users windows desktops
+* Experience with Microsoft exchange and Active Directory
+* Utilized skills in windows to accomplish help desk request
+* Wrote in house applications that used seamless web interfaces that were able to save bandwidth and incorporate full user functionality using AJAX.
+* Constructed full scale production databases in both MYSQL and MSSQL using VISIO and other Open Source Tools.
+* Became proficient in managing Netware, Linux, Windows, and Legato Networker backup software.
+* Help Desk Support Technician
+* Constructed a Custom Change management software from idea to finished product using: PHP/MYSQL/LINUX/AJAX/SNMP
+* Constructed a Custom Documents System from idea to finished product using: PHP/MYSQL/LINUX
+* Constructed a Custom Computer Database for tracking both software and hardware.
+* On-the-job accomplishments in debugging in-house and 3rd party PHP applications, including EZPublish and Wordpress.
+
+### IT Intern Help Desk and Assistant Programmer - Kennedy Krieger Institute Baltimore, Maryland summer 2001 and summer 2002
+* Team member of the desktop support and software developers.
+* Wrote a custom interface for MRTG based web application for tracking network traffic.
+* Served as departmental Linux Systems Administrator Intern.
+* Served as a  help desk technician.
+* Used and Administered Oracle Databases.
+* Updated and installed several Linux machines.
+* Worked with LDAP and GroupWise
+
+## Education
+2008 Associates: General Education – Carroll Community College
+
+## Activities
+* Vice President, Electronics Club, Westminster High School, 2001-2002
+* Member, Chess Club, Carroll Community College, 2004-2006
+* Member, Sun Developers Network, 2006-Present
+* Member of the Apple Developers Network 2006-present
+* Contributor, phpBB web forum 
+* Maintainer of prototype-Facebox (prototype port of the Facebox modal window)
+* Contributor to the Ruby on Rails community 
+
+##Examples
+
+[My Github](http://github.com/jetviper21)
+[Hubblesite](http://hubblesite.org) - Home of the Hubble Space Telescope
+[Amazing Space](http://amazing-space.stsci.edu) - Space Based education portal
+[Webb Telescope](http://webbtelescope.org) - Home of the James Webb Space Telescope
+[Prototype Facebox](http://github.com/jetviper21/prototype-facebox/tree/master)
+[SmartLogic Blog Posts](http://blog.smartlogicsolutions.com/category/scott-davis/)
+[Great American restaurants](http://www.greatamericanrestaurants.com/gar/)
+[No More Seizures](http://www.nomoreseizures.org/meddb/advanced_search.cfm)
+[Global Events Partners](http://www.gepwashington.com/ - CMS for managing each city partner of global events partners allows uploading images flash movies and all 			content is customizable (Ruby on Rails))
