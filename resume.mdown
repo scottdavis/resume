@@ -23,10 +23,6 @@
 1. Objective C / C++ (iphone)
 1. Ruby	
 2. Ruby on Rails
-  * HAML
-  * SASS / SCSS
-  * Shoulda
-  * Factory Girl
 3. MYSQL	
 4. Remote Application Deployment
 5. Linux
@@ -36,14 +32,17 @@
 9. Windows
 10. Functional / Unit Testing
 11. JavaScript
-12. Prototype
-  * JQuery
-  * Prototype
-13. Object Oriented Design
-14. Subversion
-15. GIT
-16. PHP 5
-17. Capistrano (application deployment)
+12. Object Oriented Design
+13. Subversion
+14. GIT
+15. PHP 5
+16. Capistrano (application deployment)
+
+#### Ruby Technologies
+* HAML
+* SASS / SCSS
+* Shoulda
+* Factory Girl
 
 ### Others
 
@@ -140,11 +139,19 @@
 ##Examples
 
 [My Github](http://github.com/jetviper21)
+
 [Hubblesite](http://hubblesite.org) - Home of the Hubble Space Telescope
+
 [Amazing Space](http://amazing-space.stsci.edu) - Space Based education portal
+
 [Webb Telescope](http://webbtelescope.org) - Home of the James Webb Space Telescope
+
 [Prototype Facebox](http://github.com/jetviper21/prototype-facebox/tree/master)
+
 [SmartLogic Blog Posts](http://blog.smartlogicsolutions.com/category/scott-davis/)
+
 [Great American restaurants](http://www.greatamericanrestaurants.com/gar/)
+
 [No More Seizures](http://www.nomoreseizures.org/meddb/advanced_search.cfm)
+
 [Global Events Partners](http://www.gepwashington.com/ - CMS for managing each city partner of global events partners allows uploading images flash movies and all 			content is customizable (Ruby on Rails))
