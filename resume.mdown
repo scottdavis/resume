@@ -1,6 +1,6 @@
 # Scott Davis
 
-**OBJECTIVE:** Web Developer / Software Engineer
+**OBJECTIVE:** Senior Software Engineer / Senior UX Engineer
 
 ## SUMMARY
 
@@ -20,23 +20,22 @@
 ## Proficiencies
 
 ### Expert:
-1. Objective C / C++ (iphone)
-1. Ruby	
-2. Ruby on Rails
-3. MYSQL	
-4. Remote Application Deployment
-5. Linux
-6. Flex 3
-7. Adobe Air
-8. Pure MVC
-9. Windows
-10. Functional / Unit Testing
-11. JavaScript
-12. Object Oriented Design
-13. Subversion
-14. GIT
-15. PHP 5
-16. Capistrano (application deployment)
+* Sass
+* Coffeescript
+* Ruby	
+* Ruby on Rails
+* Objective C
+* MYSQL / Postgres
+* Remote Application Deployment
+* Linux
+* Pure MVC
+* ActionScript
+* Functional / Unit Testing
+* JavaScript
+* Object Oriented Design
+* GIT
+* PHP 5
+* Capistrano (application deployment)
 
 #### Ruby Technologies
 * HAML
@@ -49,43 +48,42 @@
 
 ### Others
 
-1. Windows Vista
-2. MS SQL Server
-3. PHP (3 – 4)
-4. CSS
-5. SQL
-6. PERL
-7. Java
-8. Linux
-9. UNIX
-10. HTML
-11. AJAX (Asynchronous JavaScript and XML)
-12. Adobe Photoshop
-13. Dreamweaver
-14. Fireworks
-15. Flash	
-16. Mac OS X		
-17. Xen Virtualization
-18. Relational Database Design
+* Windows Vista
+* MS SQL Server
+* PHP (3 – 5)
+* CSS
+* SQL
+* PERL
+* Java
+* Linux
+* UNIX
+* HTML
+* AJAX (Asynchronous JavaScript and XML)
+* Adobe Photoshop
+* Dreamweaver
+* Fireworks
+* Flash	
+* Mac OS X		
+* Xen Virtualization
+* Relational Database Design
 
 ###Basic Knowledge in:
-1. JCreator
-2. Jstudio
-3. Java
-4. C++
-5. C
+1. Java
+2. C++
+3. C
 
 *Code Samples and References available upon request*
 
 ## Experience
 
-### Web Developer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-present
+### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-present
 
 * Helped Maintain and create products for the Hubble Space Telescope
 * Used PHP and Ruby on Rails to maintain web based products
-* Developed HubbleSite iPhone application
+* Developed HubbleSite iPhone application (was on tv)
 * Developed interactive Flex 3 and pureMVC
 * Created and deployed custom web application solutions using both PHP and Ruby on Rails
+* Co-Lead the redesign of the main facing Hubblesite products
 
 ### Web Developer / Linux Administrator - SmartLogic Solutions LLC Baltimore, Maryland 2007-2008
 * Maintained 14 production environments on Linux, Windows, and Mac.
@@ -122,39 +120,38 @@
 * Team member of the desktop support and software developers.
 * Wrote a custom interface for MRTG based web application for tracking network traffic.
 * Served as departmental Linux Systems Administrator Intern.
-* Served as a  help desk technician.
+* Served as a help desk technician.
 * Used and Administered Oracle Databases.
 * Updated and installed several Linux machines.
 * Worked with LDAP and GroupWise
 
 ## Education
+
 2008 Associates: General Education – Carroll Community College
 
+* Electives heavey in design (2D Design, Color Theory, etc..)
+
 ## Activities
-* Vice President, Electronics Club, Westminster High School, 2001-2002
-* Member, Chess Club, Carroll Community College, 2004-2006
-* Member, Sun Developers Network, 2006-Present
-* Member of the Apple Developers Network 2006-present
-* Contributor, phpBB web forum 
-* Maintainer of prototype-Facebox (prototype port of the Facebox modal window)
+
+* Speaker Ruby Nation 2012
+* Speaker Bohconf 2011
+* Compass core team member and Sass contributer
 * Contributor to the Ruby on Rails community 
+* Vice President, Electronics Club, Westminster High School, 2001-2002
+* Member, Chess Club, Carroll Community College, 2004-2006 
 
 ##Examples
 
-[My Github](http://github.com/jetviper21)
+[My Github](http://github.com/scottdavis)
+
+[Blog](http://scottdavis.github.com)
+
+[Compass](http://compass-style.org) - Compass Stylesheet framework
+
+[Ruby Nation](http://www.rubynation.org/)
 
 [Hubblesite](http://hubblesite.org) - Home of the Hubble Space Telescope
 
 [Amazing Space](http://amazing-space.stsci.edu) - Space Based education portal
 
 [Webb Telescope](http://webbtelescope.org) - Home of the James Webb Space Telescope
-
-[Prototype Facebox](http://github.com/jetviper21/prototype-facebox/tree/master)
-
-[SmartLogic Blog Posts](http://blog.smartlogicsolutions.com/category/scott-davis/)
-
-[Great American restaurants](http://www.greatamericanrestaurants.com/gar/)
-
-[No More Seizures](http://www.nomoreseizures.org/meddb/advanced_search.cfm)
-
-[Global Events Partners](http://www.gepwashington.com/ - CMS for managing each city partner of global events partners allows uploading images flash movies and all 			content is customizable (Ruby on Rails))
