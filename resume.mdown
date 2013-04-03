@@ -19,7 +19,8 @@
 
 ## Proficiencies
 
-### Expert:
+### Strengths:
+* Functional / Unit Testing
 * Sass
 * Coffeescript
 * Ruby	
@@ -28,43 +29,28 @@
 * MYSQL / Postgres
 * Remote Application Deployment
 * Linux
-* Pure MVC
-* ActionScript
-* Functional / Unit Testing
 * JavaScript
 * Object Oriented Design
 * GIT
-* PHP 5
 * Capistrano (application deployment)
 
 #### Ruby Technologies
-* HAML
+* Rails
+* HAML / Slim
 * SASS / SCSS
-* Shoulda
-* Factory Girl
 * Compass
-* Beanstalkd
-* Stalker
 
 ### Others
 
-* Windows Vista
-* MS SQL Server
-* PHP (3 – 5)
 * CSS
 * SQL
-* PERL
-* Java
 * Linux
 * UNIX
 * HTML
-* AJAX (Asynchronous JavaScript and XML)
 * Adobe Photoshop
-* Dreamweaver
 * Fireworks
 * Flash	
 * Mac OS X		
-* Xen Virtualization
 * Relational Database Design
 
 ###Basic Knowledge in:
@@ -78,12 +64,14 @@
 
 ### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-present
 
-* Helped Maintain and create products for the Hubble Space Telescope
-* Used PHP and Ruby on Rails to maintain web based products
-* Developed HubbleSite iPhone application (was on tv)
-* Developed interactive Flex 3 and pureMVC
+* Helped bring the department up to speed on the latest technologies.
+* Helped Maintain and create products for the Hubble Space Telescope.
+* Used PHP and Ruby on Rails to maintain web based products.
+* Developed HubbleSite iPhone application (was on tv).
 * Created and deployed custom web application solutions using both PHP and Ruby on Rails
 * Co-Lead the redesign of the main facing Hubblesite products
+* Managed Contractors
+* Survied a Google Doodle (Over 2.4 million hits per hour for 48 hours).
 
 ### Web Developer / Linux Administrator - SmartLogic Solutions LLC Baltimore, Maryland 2007-2008
 * Maintained 14 production environments on Linux, Windows, and Mac.
