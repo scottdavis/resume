@@ -10,7 +10,7 @@
 4. Web Developer Space Telescope Science Institute home of the Hubble Space 	Telescope 
 5. Experienced in managing production SQL databases. 
 6. Experienced in Adobe Flex, Air, and Flash using the pure MVC frame work.
-7. Expert in Ruby on Rails and PHP development.
+7. Expert in Ruby on Rails development.
 8. Strong background in Linux / UNIX development and administration.
 9. High level of competence and understanding in the security behind web applications.
 10. Extremely motivated agile developer and fast learner.
@@ -73,7 +73,7 @@
 * Managed Contractors
 * Survied a Google Doodle (Over 2.4 million hits per hour for 48 hours).
 
-### Web Developer / Linux Administrator - SmartLogic Solutions LLC Baltimore, Maryland 2007-2008
+### Web Developer - SmartLogic Solutions LLC Baltimore, Maryland 2007-2008
 * Maintained 14 production environments on Linux, Windows, and Mac.
 * Minor Desktop support for company employees
 * Developed highly polished skills using Ruby on Rails and its built in testing frame works.
