@@ -62,7 +62,9 @@
 
 ## Experience
 
-### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-present
+### Senior Software Engineer - Tourbuzz LLC 2013-present
+
+### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-2013
 
 * Helped bring the department up to speed on the latest technologies.
 * Helped Maintain and create products for the Hubble Space Telescope.

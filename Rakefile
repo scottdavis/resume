@@ -6,8 +6,8 @@ require 'rdiscount'
 
 task :default do
   markdown = RDiscount.new(File.read('resume.markdown'))
-  puts "Writing index.html"
-  File.open('index.html', 'w') do |f|
+  puts "Writing resume.html"
+  File.open('resume.html', 'w') do |f|
     f << markdown.to_html
   end
 end
