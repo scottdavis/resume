@@ -1,6 +1,6 @@
 # Scott Davis
 
-**OBJECTIVE:** Senior Software Engineer / Senior UX Engineer
+**OBJECTIVE:** Senior Software Architect / Senior UX Engineer
 
 ## SUMMARY
 
