@@ -62,7 +62,7 @@
 
 ## Experience
 
-### Senior Software Engineer - Tourbuzz LLC 2013-present
+### Senior Software Architect - Tourbuzz LLC 2013-present
 
 ### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-2013
 
