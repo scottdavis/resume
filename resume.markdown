@@ -62,7 +62,10 @@
 
 ## Experience
 
-### Senior Software Architect - Tourbuzz LLC 2013-present
+### Software Architect and Team Lead - Tourbuzz LLC 2013-present
+* Lead a team that updated legacy flash multimedia experience to Html5
+* Created a real time theme compiler for a custom look and feel of designs
+* Manage work for a team of engineers
 
 ### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-2013
 
@@ -134,7 +137,7 @@
 
 [My Github](http://github.com/scottdavis)
 
-[Blog](http://scottdavis.github.com)
+[Blog](http://sdavis.info)
 
 [Compass](http://compass-style.org) - Compass Stylesheet framework
 
@@ -145,3 +148,5 @@
 [Amazing Space](http://amazing-space.stsci.edu) - Space Based education portal
 
 [Webb Telescope](http://webbtelescope.org) - Home of the James Webb Space Telescope
+
+[Tourbuzz](http://tourbuzz.net) 
