@@ -1,6 +1,6 @@
 # Scott Davis
 
-**OBJECTIVE:** Senior Software Architect / Senior UX Engineer
+**OBJECTIVE:** Software Architect / Engineering Team Lead
 
 ## SUMMARY
 
@@ -20,52 +20,37 @@
 ## Proficiencies
 
 ### Strengths:
-* Functional / Unit Testing
-* Sass
-* Coffeescript
+* AngularJS
+* JavaScript
 * Ruby	
 * Ruby on Rails
+* Elixir
+* C++
+* C
+* PHP
+* Sass
+* Coffeescript
+* Kanban
+* Functional / Unit Testing
 * Objective C
 * MYSQL / Postgres
-* Remote Application Deployment
 * Linux
-* JavaScript
 * Object Oriented Design
 * GIT
 * Capistrano (application deployment)
-
-#### Ruby Technologies
-* Rails
-* HAML / Slim
-* SASS / SCSS
-* Compass
-
-### Others
-
-* CSS
-* SQL
-* Linux
-* UNIX
-* HTML
-* Adobe Photoshop
-* Fireworks
-* Flash	
-* Mac OS X		
-* Relational Database Design
-
-###Basic Knowledge in:
-1. Java
-2. C++
-3. C
 
 *Code Samples and References available upon request*
 
 ## Experience
 
 ### Software Architect and Team Lead - Tourbuzz LLC 2013-present
-* Lead a team that updated legacy flash multimedia experience to Html5
-* Created a real time theme compiler for a custom look and feel of designs
-* Manage work for a team of engineers
+* Successfuly lead a team that updated legacy flash multimedia experience to Html5.
+  * Feature equivalent implimentation.
+  * Architected a reusable component library in AngularJS for use in many custom design offerings.
+* Manage work for a team of engineers using Kanban.
+* Built real time CSS theme engine using Sass and Elixir. Able to process 200k requests an hour under 100ms.
+* Built a new market MVP prototype in Ruby on Rails.
+* Provided a learning first engineeringg experience which focus's on professional development and growth.
 
 ### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-2013
 
