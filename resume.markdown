@@ -119,15 +119,11 @@
 * Vice President, Electronics Club, Westminster High School, 2001-2002
 * Member, Chess Club, Carroll Community College, 2004-2006 
 
-##Examples
+## Examples
 
 [My Github](http://github.com/scottdavis)
 
-[Blog](http://sdavis.info)
-
 [Compass](http://compass-style.org) - Compass Stylesheet framework
-
-[Ruby Nation](http://www.rubynation.org/)
 
 [Hubblesite](http://hubblesite.org) - Home of the Hubble Space Telescope
 
