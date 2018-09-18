@@ -47,10 +47,11 @@
 * Successfuly lead a team that updated legacy flash multimedia experience to Html5.
   * Feature equivalent implimentation.
   * Architected a reusable component library in AngularJS for use in many custom design offerings.
+* Built a robust on the fly theme generation engine using sass and elixir.
 * Manage work for a team of engineers using Kanban.
 * Built real time CSS theme engine using Sass and Elixir. Able to process 200k requests an hour under 100ms.
 * Built a new market MVP prototype in Ruby on Rails.
-* Provided a learning first engineeringg experience which focus's on professional development and growth.
+* Provided a learning first engineering experience which focus's on professional development and growth.
 
 ### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-2013
 
