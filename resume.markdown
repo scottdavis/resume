@@ -20,15 +20,15 @@
 ## Proficiencies
 
 ### Strengths:
-* AngularJS
-* JavaScript
-* Ruby	
-* Ruby on Rails
 * Elixir
-* C++
-* C
 * PHP
 * Sass
+* Ruby	
+* Ruby on Rails
+* AngularJS
+* JavaScript
+* C++
+* C
 * Coffeescript
 * Kanban
 * Functional / Unit Testing
@@ -37,7 +37,6 @@
 * Linux
 * Object Oriented Design
 * GIT
-* Capistrano (application deployment)
 
 *Code Samples and References available upon request*
 
