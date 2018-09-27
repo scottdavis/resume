@@ -20,12 +20,12 @@
 ## Proficiencies
 
 ### Strengths:
-* Elixir
+* 3 Years Elixir and Phoenix Experience
+* 7 Years Sass and core community member
+* 10 years Ruby
+* 10 years Ruby on Rails
+* 3 years AngularJS 
 * PHP
-* Sass
-* Ruby	
-* Ruby on Rails
-* AngularJS
 * JavaScript
 * C++
 * C
@@ -42,7 +42,7 @@
 
 ## Experience
 
-### Software Architect and Team Lead - Tourbuzz LLC 2013-present
+### Software Architect and Team Lead - Tourbuzz LLC 2013-2018
 * Successfuly lead a team that updated legacy flash multimedia experience to Html5.
   * Feature equivalent implimentation.
   * Architected a reusable component library in AngularJS for use in many custom design offerings.
@@ -52,7 +52,7 @@
 * Built a new market MVP prototype in Ruby on Rails.
 * Provided a learning first engineering experience which focus's on professional development and growth.
 
-### UX Engineer / iPhone Developer - Space Telescope Science Institute, Maryland 2009-2013
+### UX Engineer / Application Engineer - Space Telescope Science Institute, Maryland 2009-2013
 
 * Helped bring the department up to speed on the latest technologies.
 * Helped Maintain and create products for the Hubble Space Telescope.
