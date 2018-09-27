@@ -25,6 +25,8 @@
 * 10 years Ruby
 * 10 years Ruby on Rails
 * 3 years AngularJS 
+* Docker
+* AWS
 * PHP
 * JavaScript
 * C++
@@ -51,6 +53,8 @@
 * Built real time CSS theme engine using Sass and Elixir. Able to process 200k requests an hour under 100ms.
 * Built a new market MVP prototype in Ruby on Rails.
 * Provided a learning first engineering experience which focus's on professional development and growth.
+* Used Docker to deploy applications across the infastructure.
+* Responcibile for the day to day software engineering Architechture decisions and Implimentations.
 
 ### UX Engineer / Application Engineer - Hubble Space Space Telescope Science Institute, Maryland 2009-2013
 
