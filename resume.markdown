@@ -52,7 +52,7 @@
 * Built a new market MVP prototype in Ruby on Rails.
 * Provided a learning first engineering experience which focus's on professional development and growth.
 
-### UX Engineer / Application Engineer - Space Telescope Science Institute, Maryland 2009-2013
+### UX Engineer / Application Engineer - Hubble Space Space Telescope Science Institute, Maryland 2009-2013
 
 * Helped bring the department up to speed on the latest technologies.
 * Helped Maintain and create products for the Hubble Space Telescope.
