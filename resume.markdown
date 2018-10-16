@@ -44,6 +44,8 @@
 
 ## Experience
 
+### Senior Engineer Showcase IDX 2018-Current
+
 ### Software Architect and Team Lead - Tourbuzz LLC 2013-2018
 * Successfuly lead a team that updated legacy flash multimedia experience to Html5.
   * Feature equivalent implimentation.
